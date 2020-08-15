@@ -1,0 +1,34 @@
+.color{
+    background: rgba(0, 0, 0, 0.699);
+}
+@media (max-width:2000px){
+    .color{
+        background:rgb(106, 6, 206);
+    }
+}
+
+@media (max-width:1350px){
+    .color{
+        background:burlywood;
+    }
+}
+@media (max-width:992px){
+    .color{
+        background:green;
+    }
+}
+@media (max-width:768px){
+    .color{
+        background:sandybrown;
+    }
+}
+@media (max-width:576px){
+    .color{
+        background:rgb(0, 109, 128);
+    }
+}
+@media (max-width:48px){
+    .color{
+        background:rgb(128, 0, 85);
+    }
+}
